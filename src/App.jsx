@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './app.scss'
-import Header from './components/header'
+import Header from './components/SiteHeader'
 import Navbar from './components/Navbar'
 import Overview from './components/Overview'
 import Tabs from './components/Tabs'
