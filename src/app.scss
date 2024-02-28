@@ -148,6 +148,10 @@
   padding: 0.5rem;
   @media screen and (max-width: 450px) {
     gap: 0 1rem;
+    width: 100vw;
+    bottom: 0;
+    gap: 0;
+    justify-content: space-between;
   }
   .navbar-item {
     color: #afb9c5;
